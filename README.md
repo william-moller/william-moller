@@ -1,6 +1,6 @@
 ## Will Moller
 
-Senior software engineer in Lincoln, Nebraska. I build cloud-based distributed systems in C#/.NET at
+Senior Software Engineer in Lincoln, Nebraska. I build cloud-based distributed systems in C#/.NET at
 Nelnet Campus Commerce, where I work on the event-driven services and APIs that carry payment data
 between Nelnet's payment platforms and the student information systems of more than 100 colleges and
 universities. Before I moved into engineering, I spent eight years on the client and integration side
